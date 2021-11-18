@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+settings_local.py
+.DS_Store
+.idea
+db.sqlite3
+.coverage*
+htmlcov
+media
+.env
